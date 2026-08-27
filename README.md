@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>TT-NN Visualizer</h1>
+<h1>I WIN</h1>
 
 <div align="center">
 <picture>
